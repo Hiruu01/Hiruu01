@@ -18,8 +18,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-<a href="https://dev.to/aayushidroid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
-</p>
+
 
 -----
